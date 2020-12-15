@@ -29,6 +29,7 @@ dependencies:
 #    - twine
 
 # conda build packages
+## https://github.com/PDAL/PDAL/blob/master/scripts/conda/win64-setup.bat
 # ninja geotiff laszip nitro curl gdal cmake eigen ninja zstd numpy xz libxml2 laz-perf qhull sqlite hdf5 tiledb
 
 # tutorial packages
