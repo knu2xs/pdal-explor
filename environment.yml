@@ -1,0 +1,35 @@
+name: pdal-explor
+
+channels:
+  - esri
+  - conda-forge
+
+dependencies:
+  - arcgis
+  - arcpy
+  - cookiecutter
+#  - entwine
+#  - gdal
+#  - jupyterlab
+  - nodejs
+  - pdal
+#  - pip
+  - pytest
+  - python=3.7
+#  - python-dotenv
+#  - python-pdal
+#  - pip:
+#    - boto3
+#    - bump2version
+#    - ipykernel
+#    - pyarrow
+#    - sphinx
+#    - sphinx-autodoc-typehints
+#    - sphinx_rtd_theme
+#    - twine
+
+# conda build packages
+# ninja geotiff laszip nitro curl gdal cmake eigen ninja zstd numpy xz libxml2 laz-perf qhull sqlite hdf5 tiledb
+
+# tutorial packages
+# pdal python-pdal gdal entwine matplotlib
